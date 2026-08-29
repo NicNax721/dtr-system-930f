@@ -1,0 +1,22 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>dtrsystem</Name>
+  <DisplayName>DTR System</DisplayName>
+  <Description>Daily Time Record system with CSC Form 48 reporting, biometric
+    import, year archiving and version restore points.</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2026-08-30</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdateText>First Stable Demo Version of DTR System for Baybay Citys' LGU HRMO Department.</UpdateText>
+  <UpdateFile CompressedSize="32241627" OS="Any" UncompressedSize="120454256"/>
+  <DownloadableArchives>bin.7z,include.7z,lib.7z,plugins.7z,qml.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>b8dbc89c819735a9cb5cbac89f22d1579c822dd5</SHA1>
+ </PackageUpdate>
+ <SHA1>16a200fc3eecd45f9d198430566027cd2d23a2a9</SHA1>
+ <MetadataName>2026-08-30-0409_meta.7z</MetadataName>
+</Updates>
