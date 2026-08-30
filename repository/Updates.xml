@@ -12,11 +12,13 @@
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateText>First Stable Demo Version of DTR System for Baybay Citys' LGU HRMO Department.</UpdateText>
-  <UpdateFile CompressedSize="32241627" OS="Any" UncompressedSize="120454256"/>
-  <DownloadableArchives>bin.7z,include.7z,lib.7z,plugins.7z,qml.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>b8dbc89c819735a9cb5cbac89f22d1579c822dd5</SHA1>
+  <UpdateText>Bug fixes to year archiving, restore points and database
+    shutdown. Records now live in a shared data folder that updates and
+    uninstalls leave alone.</UpdateText>
+  <UpdateFile CompressedSize="30215179" OS="Any" UncompressedSize="108980800"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,include.7z,lib.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,sqldrivers.7z,styles.7z,tls.7z,content.7z</DownloadableArchives>
+  <SHA1>6203685af71a34427ea4d35c52cd7029edf06b56</SHA1>
  </PackageUpdate>
- <SHA1>16a200fc3eecd45f9d198430566027cd2d23a2a9</SHA1>
- <MetadataName>2026-08-30-0409_meta.7z</MetadataName>
+ <SHA1>dc4b89fa1e397c1ea79c4539a42bcf57fd483166</SHA1>
+ <MetadataName>2026-08-30-1446_meta.7z</MetadataName>
 </Updates>
