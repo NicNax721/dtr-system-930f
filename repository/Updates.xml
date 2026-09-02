@@ -2,26 +2,26 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
+ <SHA1>291c822d4c5c8e32c82d3781ee7f26df1b33e719</SHA1>
+ <MetadataName>2026-09-03-0007_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>dtrsystem</Name>
   <DisplayName>DTR System</DisplayName>
   <Description>Daily Time Record system with CSC Form 48 reporting, biometric
     import, year archiving and version restore points.</Description>
-  <Version>1.0.3</Version>
-  <ReleaseDate>2026-09-02</ReleaseDate>
+  <Version>1.1.0</Version>
+  <ReleaseDate>2026-09-03</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
   <UpdateText>Bug fixes to year archiving, restore points and database
     shutdown. Records now live in a shared data folder that updates and
     uninstalls leave alone.</UpdateText>
-  <UpdateFile CompressedSize="30257229" OS="Any" UncompressedSize="109109877"/>
+  <UpdateFile CompressedSize="30277549" OS="Any" UncompressedSize="109172154"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,include.7z,lib.7z,networkinformation.7z,platforms.7z,qml.7z,qmltooling.7z,sqldrivers.7z,styles.7z,tls.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="license.txt" name="DTR System - Terms of Use"/>
   </Licenses>
-  <SHA1>64903cfbcded668f826365660bb1f73051f49287</SHA1>
+  <SHA1>5e028a5363044899b329592c968062ffe0632215</SHA1>
  </PackageUpdate>
- <SHA1>7ee21bab3772cb587a42f5f034030eeec13078cc</SHA1>
- <MetadataName>2026-09-02-2120_meta.7z</MetadataName>
 </Updates>
